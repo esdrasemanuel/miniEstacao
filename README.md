@@ -1,2 +1,2 @@
 # miniEstacao
-salvar dados na memoria do esp32
+Esse repositório contem os teste efetuados no meu TCC 
