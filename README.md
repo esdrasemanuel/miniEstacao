@@ -1,2 +1,2 @@
 # miniEstacao
-Esse repositório contem os teste efetuados no meu TCC 
+Esse repositório contem alguns teste efetuados no meu TCC 
